@@ -1,0 +1,35 @@
+.quiz-section {
+    margin-top: 30px;
+}
+
+.quiz-section h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.quiz-section .question-block {
+    margin-bottom: 20px;
+}
+
+.quiz-section .question-block h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.quiz-section .form-check {
+    margin-bottom: 10px;
+}
+
+.quiz-section .btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #82c91e;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.quiz-section .btn:hover {
+    background-color: #6ba212;
+}
